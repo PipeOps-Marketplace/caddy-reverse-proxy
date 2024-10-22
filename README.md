@@ -1,7 +1,5 @@
 # [Caddy](https://caddyserver.com/) Frontend & Backend Reverse Proxy on PipeOps
 
-[![Deploy on PipeOps](https://pub-a1fbf367a4cd458487cfa3f29154ac93.r2.dev/Default.png)](#)
-
 **Combine your **separate** frontend and backend services into one domain!**
 
 ### [View the example public project here](https://railway.app/project/35d8d571-4313-4049-9699-4e7db7f02a2f)
